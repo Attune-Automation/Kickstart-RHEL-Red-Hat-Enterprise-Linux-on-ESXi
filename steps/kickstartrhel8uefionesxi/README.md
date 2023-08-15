@@ -1,0 +1,1 @@
+Creates and kickstarts a RHEL8 UEFI virtual machine on ESXi.

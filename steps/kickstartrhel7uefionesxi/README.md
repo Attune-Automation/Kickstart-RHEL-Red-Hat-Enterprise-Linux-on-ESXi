@@ -1,0 +1,1 @@
+Creates and kickstarts a RHEL7 UEFI virtual machine on ESXi.

@@ -1,0 +1,1 @@
+Recreates a RHEL7 ESXi UEFI virtual machine.
