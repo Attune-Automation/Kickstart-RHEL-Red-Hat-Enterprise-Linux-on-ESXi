@@ -1,0 +1,15 @@
+{
+    "actionOnStepFail": null, 
+    "blueprintName": "", 
+    "blueprintUuid": "c492717c-2d40-4621-8955-17287d59ea3e", 
+    "cloneUrl": "", 
+    "enabled": true, 
+    "externalUuid4": "864700b5-8181-4474-8a68-fa8cf7944532", 
+    "key": "createrhel8uefikickstartisolink", 
+    "name": "Create RHEL8 UEFI Kickstart ISO (link)", 
+    "parameterMap": [], 
+    "projectName": "", 
+    "projectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+    "projectVersion": "", 
+    "type": "com.servertribe.attune.tuples.StepProjectLinkTuple"
+}

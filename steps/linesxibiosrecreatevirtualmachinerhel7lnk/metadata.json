@@ -1,0 +1,25 @@
+{
+    "actionOnStepFail": null, 
+    "blueprintName": "", 
+    "blueprintUuid": "a40fa396-7212-4dde-ac6a-43645cf09f17", 
+    "cloneUrl": "", 
+    "enabled": true, 
+    "externalUuid4": "b9a1e101-9c2f-4f0e-945f-ecf1e4c5a57e", 
+    "key": "linesxibiosrecreatevirtualmachinerhel7lnk", 
+    "name": "LIN ESXi BIOS Recreate Virtual Machine - RHEL7 (lnk)", 
+    "parameterMap": [
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.Text", 
+            "childParameterUuid": "92d11185-28c3-4c1e-9f4e-bf3d4c31cd13", 
+            "childProjectName": null, 
+            "childProjectUuid": "8140ab94-a4a9-481f-8ab1-9ee055ef78be", 
+            "parentParameterKey": null, 
+            "parentStaticTextValue": "rhel7_64Guest"
+        }
+    ], 
+    "projectName": "", 
+    "projectUuid": "8140ab94-a4a9-481f-8ab1-9ee055ef78be", 
+    "projectVersion": "", 
+    "type": "com.servertribe.attune.tuples.StepProjectLinkTuple"
+}

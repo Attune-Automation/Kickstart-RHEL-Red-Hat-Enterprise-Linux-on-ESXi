@@ -1,0 +1,24 @@
+{
+    "actionOnStepFail": "stop", 
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "9e476f7d-d3e9-4d21-8a61-eb43b8d3bf0d", 
+    "isBlueprint": true, 
+    "key": "kickstartrhel8uefionesxi", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "createrhel8uefikickstartisolink"
+        }, 
+        {
+            "order": 50, 
+            "stepKey": "linesxiuefirecreatevirtualmachinelink"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "cleanbuildfileslink"
+        }
+    ], 
+    "name": "Kickstart RHEL8 UEFI on ESXi", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}
