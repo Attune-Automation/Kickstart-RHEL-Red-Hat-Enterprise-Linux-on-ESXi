@@ -63,6 +63,9 @@ This Project contains the following Blueprints.
 ### Kickstart RHEL8 UEFI on ESXi
 
 
+### Kickstart RHEL7 UEFI on ESXi
+
+
 
 
 

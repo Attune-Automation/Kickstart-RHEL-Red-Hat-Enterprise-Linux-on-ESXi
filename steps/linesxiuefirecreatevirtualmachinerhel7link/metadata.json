@@ -4,9 +4,9 @@
     "blueprintUuid": "18af1c16-5ee0-4a2d-ae12-5e52aeb25287", 
     "cloneUrl": "", 
     "enabled": true, 
-    "externalUuid4": "8153280f-f1bb-4ed7-b0c7-ddbea7c20ed2", 
-    "key": "linesxiuefirecreatevirtualmachinelink", 
-    "name": "LIN ESXi UEFI Recreate Virtual Machine (link)", 
+    "externalUuid4": "83d455d7-de4a-405c-b47b-d01ac5ac0671", 
+    "key": "linesxiuefirecreatevirtualmachinerhel7link", 
+    "name": "LIN ESXi UEFI Recreate Virtual Machine - RHEL7 (link)", 
     "parameterMap": [
         {
             "childParameterName": null, 
@@ -15,7 +15,7 @@
             "childProjectName": null, 
             "childProjectUuid": "8140ab94-a4a9-481f-8ab1-9ee055ef78be", 
             "parentParameterKey": null, 
-            "parentStaticTextValue": "rhel8_64Guest"
+            "parentStaticTextValue": "rhel7_64Guest"
         }
     ], 
     "projectName": "", 
