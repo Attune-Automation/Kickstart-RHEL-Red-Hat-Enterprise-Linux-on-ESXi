@@ -1,6 +1,6 @@
 {
     "externalUuid4": "72738612-eaf9-45dd-a8cd-20109c9374d0", 
-    "key": "kickstartrhelredhatenterpriselinuxonesxi2", 
-    "name": "Kickstart RHEL Redhat Enterprise Linux on ESXi 2", 
+    "key": "kickstartrhelredhatenterpriselinuxonesxi", 
+    "name": "Kickstart RHEL Redhat Enterprise Linux on ESXi", 
     "revision": "145c6dc54454"
 }
