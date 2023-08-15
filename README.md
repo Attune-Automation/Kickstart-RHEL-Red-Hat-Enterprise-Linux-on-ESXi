@@ -7,7 +7,7 @@
 [![Docs](https://img.shields.io/badge/videos-watch-brightgreen.svg)](https://www.youtube.com/@servertribe)
 [![Generic badge](https://img.shields.io/badge/download-latest-brightgreen.svg)](https://www.servertribe.com/community-edition/)
 
-# Kickstart Linux on ESXi
+# Kickstart-RHEL-Redhat-Enterprise-Linux-on-ESXi
 
 
 
@@ -57,13 +57,13 @@ This Project contains the following Blueprints.
 ### Kickstart RHEL7 BIOS on ESXi
 
 
+### Kickstart RHEL7 UEFI on ESXi
+
+
 ### Kickstart RHEL8 BIOS on ESXi
 
 
 ### Kickstart RHEL8 UEFI on ESXi
-
-
-### Kickstart RHEL7 UEFI on ESXi
 
 
 
