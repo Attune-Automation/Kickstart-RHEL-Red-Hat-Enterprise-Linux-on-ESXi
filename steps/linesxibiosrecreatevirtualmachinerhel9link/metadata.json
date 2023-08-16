@@ -4,9 +4,9 @@
     "blueprintUuid": "a40fa396-7212-4dde-ac6a-43645cf09f17", 
     "cloneUrl": "", 
     "enabled": true, 
-    "externalUuid4": "b9a1e101-9c2f-4f0e-945f-ecf1e4c5a57e", 
-    "key": "linesxibiosrecreatevirtualmachinerhel7lnk", 
-    "name": "LIN ESXi BIOS Recreate Virtual Machine - RHEL7 (lnk)", 
+    "externalUuid4": "2b3281a1-2d8d-413a-939f-d11478cf0259", 
+    "key": "linesxibiosrecreatevirtualmachinerhel9link", 
+    "name": "LIN ESXi BIOS Recreate Virtual Machine - RHEL9 (link)", 
     "parameterMap": [
         {
             "childParameterName": null, 
@@ -15,7 +15,7 @@
             "childProjectName": null, 
             "childProjectUuid": "8140ab94-a4a9-481f-8ab1-9ee055ef78be", 
             "parentParameterKey": null, 
-            "parentStaticTextValue": "rhel7_64Guest"
+            "parentStaticTextValue": "rhel9_64Guest"
         }
     ], 
     "projectName": "", 

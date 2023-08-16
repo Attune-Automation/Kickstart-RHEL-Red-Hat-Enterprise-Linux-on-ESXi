@@ -1,12 +1,12 @@
 {
     "actionOnStepFail": null, 
     "blueprintName": "", 
-    "blueprintUuid": "c492717c-2d40-4621-8955-17287d59ea3e", 
+    "blueprintUuid": "31574fc5-dd74-489d-b5e1-73c594962585", 
     "cloneUrl": "", 
     "enabled": true, 
-    "externalUuid4": "864700b5-8181-4474-8a68-fa8cf7944532", 
-    "key": "createrhel8uefikickstartisolink", 
-    "name": "Create RHEL8 UEFI Kickstart ISO (link)", 
+    "externalUuid4": "a86d0201-3dd1-4d05-b275-8e8451a2ac22", 
+    "key": "createrhel9bioskickstartisolink", 
+    "name": "Create RHEL9 BIOS Kickstart ISO (link)", 
     "parameterMap": [
         {
             "childParameterName": null, 

@@ -58,6 +58,10 @@ This Project contains the following Blueprints.
 
 Creates and kickstarts a RHEL7 BIOS virtual machine on ESXi.
 
+### Kickstart RHEL7 UEFI on ESXi
+
+Creates and kickstarts a RHEL7 UEFI virtual machine on ESXi.
+
 ### Kickstart RHEL8 BIOS on ESXi
 
 Creates and kickstarts a RHEL8 BIOS virtual machine on ESXi.
@@ -66,9 +70,8 @@ Creates and kickstarts a RHEL8 BIOS virtual machine on ESXi.
 
 Creates and kickstarts a RHEL8 UEFI virtual machine on ESXi.
 
-### Kickstart RHEL7 UEFI on ESXi
+### Kickstart RHEL9 BIOS on ESXi
 
-Creates and kickstarts a RHEL7 UEFI virtual machine on ESXi.
 
 
 

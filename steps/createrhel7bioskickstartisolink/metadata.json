@@ -7,7 +7,17 @@
     "externalUuid4": "e0a3c0a7-eb87-45c2-abe1-ae5b0b42254a", 
     "key": "createrhel7bioskickstartisolink", 
     "name": "Create RHEL7 BIOS Kickstart ISO (link)", 
-    "parameterMap": [], 
+    "parameterMap": [
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.Text", 
+            "childParameterUuid": "c4dac7f7-7b20-4b6f-8a9b-be9f69d301c3", 
+            "childProjectName": null, 
+            "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+            "parentParameterKey": null, 
+            "parentStaticTextValue": "s"
+        }
+    ], 
     "projectName": "", 
     "projectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
     "projectVersion": "", 
