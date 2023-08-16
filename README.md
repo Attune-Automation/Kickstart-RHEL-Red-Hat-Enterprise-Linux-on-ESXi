@@ -73,6 +73,9 @@ Creates and kickstarts a RHEL8 UEFI virtual machine on ESXi.
 ### Kickstart RHEL9 BIOS on ESXi
 
 
+### Kickstart RHEL9 UEFI on ESXi
+
+
 
 
 

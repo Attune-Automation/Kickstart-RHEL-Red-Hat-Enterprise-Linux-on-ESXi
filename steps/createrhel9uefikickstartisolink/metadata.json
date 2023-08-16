@@ -1,0 +1,25 @@
+{
+    "actionOnStepFail": null, 
+    "blueprintName": "", 
+    "blueprintUuid": "e5fbe1c7-01fe-4859-ba1a-7cfb87bf4374", 
+    "cloneUrl": "", 
+    "enabled": true, 
+    "externalUuid4": "e2b350cb-9324-43c4-9947-00593cd44c1d", 
+    "key": "createrhel9uefikickstartisolink", 
+    "name": "Create RHEL9 UEFI Kickstart ISO (link)", 
+    "parameterMap": [
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.Text", 
+            "childParameterUuid": "c4dac7f7-7b20-4b6f-8a9b-be9f69d301c3", 
+            "childProjectName": null, 
+            "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+            "parentParameterKey": null, 
+            "parentStaticTextValue": "s"
+        }
+    ], 
+    "projectName": "", 
+    "projectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+    "projectVersion": "", 
+    "type": "com.servertribe.attune.tuples.StepProjectLinkTuple"
+}

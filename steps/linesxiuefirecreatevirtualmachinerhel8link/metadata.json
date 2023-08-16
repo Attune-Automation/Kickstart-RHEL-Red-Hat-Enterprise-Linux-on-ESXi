@@ -5,8 +5,8 @@
     "cloneUrl": "", 
     "enabled": true, 
     "externalUuid4": "8153280f-f1bb-4ed7-b0c7-ddbea7c20ed2", 
-    "key": "linesxiuefirecreatevirtualmachinelink", 
-    "name": "LIN ESXi UEFI Recreate Virtual Machine (link)", 
+    "key": "linesxiuefirecreatevirtualmachinerhel8link", 
+    "name": "LIN ESXi UEFI Recreate Virtual Machine - RHEL8 (link)", 
     "parameterMap": [
         {
             "childParameterName": null, 
