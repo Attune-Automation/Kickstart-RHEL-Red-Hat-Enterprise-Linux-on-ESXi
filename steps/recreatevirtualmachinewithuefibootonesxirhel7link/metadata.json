@@ -4,9 +4,9 @@
     "blueprintUuid": "18af1c16-5ee0-4a2d-ae12-5e52aeb25287", 
     "cloneUrl": "https://github.com/Attune-Automation/VMWare-ESXi-APIs.git", 
     "enabled": true, 
-    "externalUuid4": "4769dd46-0e84-4552-8536-062fc9878c1d", 
-    "key": "linesxiuefirecreatevirtualmachinerhel9link", 
-    "name": "LIN ESXi UEFI Recreate Virtual Machine - RHEL9 (link)", 
+    "externalUuid4": "83d455d7-de4a-405c-b47b-d01ac5ac0671", 
+    "key": "recreatevirtualmachinewithuefibootonesxirhel7link", 
+    "name": "Recreate Virtual Machine with UEFI boot on ESXi - RHEL7 (link)", 
     "parameterMap": [
         {
             "childParameterName": null, 
@@ -15,7 +15,7 @@
             "childProjectName": null, 
             "childProjectUuid": "8140ab94-a4a9-481f-8ab1-9ee055ef78be", 
             "parentParameterKey": null, 
-            "parentStaticTextValue": "rhel9_64Guest"
+            "parentStaticTextValue": "rhel7_64Guest"
         }
     ], 
     "projectName": "", 
