@@ -1,5 +1,5 @@
 In this Attune Blueprint, we'll automate the process of 
-provisioning a Red Hat Enterprise Linux 8 (RHEL 8) machine with 
+provisioning a Red Hat Enterprise Linux 9 (RHEL 9) machine with 
 BIOS boot using Kickstart on VMware ESXi. 
 
 Automating the deployment of operating systems is a critical 

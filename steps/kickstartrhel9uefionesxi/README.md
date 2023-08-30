@@ -1,6 +1,6 @@
 In this Attune Blueprint, we'll automate the process of 
-provisioning a Red Hat Enterprise Linux 8 (RHEL 8) machine with 
-BIOS boot using Kickstart on VMware ESXi. 
+provisioning a Red Hat Enterprise Linux 9 (RHEL 9) machine with 
+UEFI boot using Kickstart on VMware ESXi. 
 
 Automating the deployment of operating systems is a critical 
 aspect of modern IT infrastructure management.
@@ -20,11 +20,13 @@ automating these settings, Kickstart eliminates the need for
 manual intervention during the installation process, making it a 
 valuable time-saving tool.
 
-## The Need for BIOS Boot on ESXi
+## Importance of UEFI Boot on ESXi
 
-VMware ESXi is a hypervisor that enables the virtualisation of 
-multiple guest VMs on a single physical server. In scenarios 
-where BIOS boot is required instead of the more modern UEFI boot, 
-the Kickstart automation process can be tailored to accommodate 
-these requirements. BIOS boot is often preferred for compatibility 
-with legacy systems or certain configurations.
+VMware ESXi serves as a hypervisor that facilitates the 
+virtualisation of multiple VMs on a single physical server. In 
+instances where modern hardware and operating systems are 
+utilised, Unified Extensible Firmware Interface (UEFI) boot has 
+become the standard. UEFI provides enhanced security, faster boot 
+times, and compatibility with larger disks. Understanding how to 
+incorporate UEFI boot into an automated installation is crucial 
+for maintaining a current and efficient IT environment.
