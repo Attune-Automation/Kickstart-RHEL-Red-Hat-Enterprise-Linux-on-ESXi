@@ -2,7 +2,7 @@
     "actionOnStepFail": null, 
     "blueprintName": "", 
     "blueprintUuid": "18af1c16-5ee0-4a2d-ae12-5e52aeb25287", 
-    "cloneUrl": "", 
+    "cloneUrl": "https://github.com/Attune-Automation/VMWare-ESXi-APIs.git", 
     "enabled": true, 
     "externalUuid4": "83d455d7-de4a-405c-b47b-d01ac5ac0671", 
     "key": "linesxiuefirecreatevirtualmachinerhel7link", 

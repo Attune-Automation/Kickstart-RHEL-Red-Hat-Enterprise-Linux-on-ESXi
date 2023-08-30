@@ -2,7 +2,7 @@
     "actionOnStepFail": null, 
     "blueprintName": "", 
     "blueprintUuid": "b4317745-d5c3-42d3-b198-8f1db58bcf53", 
-    "cloneUrl": "", 
+    "cloneUrl": "https://github.com/Attune-Automation/Kickstart-RHEL-Redhat-Enterprise-Linux.git", 
     "enabled": true, 
     "externalUuid4": "e0a3c0a7-eb87-45c2-abe1-ae5b0b42254a", 
     "key": "createrhel7bioskickstartisolink", 
