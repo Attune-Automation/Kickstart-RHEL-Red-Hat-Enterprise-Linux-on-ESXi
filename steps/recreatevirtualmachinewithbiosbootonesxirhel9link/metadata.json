@@ -4,7 +4,7 @@
     "blueprintUuid": "a40fa396-7212-4dde-ac6a-43645cf09f17", 
     "cloneUrl": "https://github.com/Attune-Automation/VMWare-ESXi-APIs.git", 
     "enabled": true, 
-    "externalUuid4": "2b3281a1-2d8d-413a-939f-d11478cf0259", 
+    "externalUuid4": "2b3281a1-2d8d-413a-939f-d11478cf0258", 
     "key": "recreatevirtualmachinewithbiosbootonesxirhel9link", 
     "name": "Recreate Virtual Machine with BIOS boot on ESXi - RHEL9 (link)", 
     "parameterMap": [
