@@ -17,6 +17,10 @@
         {
             "order": 100, 
             "stepKey": "cleanbuildfileslink"
+        }, 
+        {
+            "order": 150, 
+            "stepKey": "testrhel7uefinode"
         }
     ], 
     "name": "Kickstart RHEL7 UEFI on ESXi", 

@@ -17,6 +17,10 @@
         {
             "order": 100, 
             "stepKey": "cleanbuildfileslink"
+        }, 
+        {
+            "order": 200, 
+            "stepKey": "testrhel9biosnode"
         }
     ], 
     "name": "Kickstart RHEL9 BIOS on ESXi", 

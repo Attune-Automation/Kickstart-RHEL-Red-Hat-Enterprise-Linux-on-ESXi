@@ -2,7 +2,7 @@
     "actionOnStepFail": null, 
     "blueprintName": "", 
     "blueprintUuid": "eb8023cf-b54e-4035-9218-30902b7b8daf", 
-    "cloneUrl": "https://github.com/Attune-Automation/Kickstart-RHEL-Redhat-Enterprise-Linux.git", 
+    "cloneUrl": "https://github.com/Attune-Automation/Kickstart-RHEL-Red-Hat-Enterprise-Linux.git", 
     "enabled": true, 
     "externalUuid4": "23cb377e-0942-4ec3-8dc5-0552df257770", 
     "key": "cleanbuildfileslink", 

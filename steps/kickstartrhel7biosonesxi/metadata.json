@@ -17,6 +17,10 @@
         {
             "order": 100, 
             "stepKey": "cleanbuildfileslink"
+        }, 
+        {
+            "order": 150, 
+            "stepKey": "testrhel7biosnode"
         }
     ], 
     "name": "Kickstart RHEL7 BIOS on ESXi", 

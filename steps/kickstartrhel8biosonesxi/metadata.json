@@ -17,6 +17,10 @@
         {
             "order": 100, 
             "stepKey": "cleanbuildfileslink"
+        }, 
+        {
+            "order": 150, 
+            "stepKey": "testrhel8biosnode"
         }
     ], 
     "name": "Kickstart RHEL8 BIOS on ESXi", 

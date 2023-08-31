@@ -17,6 +17,10 @@
         {
             "order": 100, 
             "stepKey": "cleanbuildfileslink"
+        }, 
+        {
+            "order": 150, 
+            "stepKey": "testrhel8uefinode"
         }
     ], 
     "name": "Kickstart RHEL8 UEFI on ESXi", 

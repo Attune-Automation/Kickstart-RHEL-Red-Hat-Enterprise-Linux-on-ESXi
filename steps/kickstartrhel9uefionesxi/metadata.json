@@ -17,6 +17,10 @@
         {
             "order": 100, 
             "stepKey": "cleanbuildfileslink"
+        }, 
+        {
+            "order": 200, 
+            "stepKey": "testrhel9uefinode"
         }
     ], 
     "name": "Kickstart RHEL9 UEFI on ESXi", 

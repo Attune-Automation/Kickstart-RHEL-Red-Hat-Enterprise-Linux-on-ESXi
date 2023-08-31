@@ -1,0 +1,43 @@
+{
+    "actionOnStepFail": "continue", 
+    "blueprintName": "", 
+    "blueprintUuid": "932fd214-08b7-4cce-9fd0-d12d396337f3", 
+    "cloneUrl": "https://github.com/Attune-Automation/Kickstart-RHEL-Red-Hat-Enterprise-Linux.git", 
+    "enabled": true, 
+    "externalUuid4": "03fd09b8-6904-4245-8d19-0ec7e9837fef", 
+    "key": "testrhel9biosnode", 
+    "name": "Test RHEL9 BIOS Node", 
+    "parameterMap": [
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.Text", 
+            "childParameterUuid": "d006e603-aecb-4534-84ba-38eabce80d09", 
+            "childProjectName": null, 
+            "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+            "parentParameterKey": null, 
+            "parentStaticTextValue": "0"
+        }, 
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.Text", 
+            "childParameterUuid": "f22e0b6d-cd6a-4fac-80de-1c1550085681", 
+            "childProjectName": null, 
+            "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+            "parentParameterKey": null, 
+            "parentStaticTextValue": "1"
+        }, 
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.Text", 
+            "childParameterUuid": "9395f39e-53cb-4009-86dd-5e5dd151fa9a", 
+            "childProjectName": null, 
+            "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+            "parentParameterKey": null, 
+            "parentStaticTextValue": "Red Hat Enterprise Linux 9"
+        }
+    ], 
+    "projectName": "", 
+    "projectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+    "projectVersion": "", 
+    "type": "com.servertribe.attune.tuples.StepProjectLinkTuple"
+}
