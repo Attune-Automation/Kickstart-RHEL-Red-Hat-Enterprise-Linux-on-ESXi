@@ -15,7 +15,7 @@
             "childProjectName": null, 
             "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
             "parentParameterKey": null, 
-            "parentStaticTextValue": "1"
+            "parentStaticTextValue": "true"
         }, 
         {
             "childParameterName": null, 
@@ -24,7 +24,7 @@
             "childProjectName": null, 
             "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
             "parentParameterKey": null, 
-            "parentStaticTextValue": "0"
+            "parentStaticTextValue": "false"
         }, 
         {
             "childParameterName": null, 
