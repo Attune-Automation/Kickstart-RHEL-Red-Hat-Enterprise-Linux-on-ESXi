@@ -2,7 +2,7 @@
     "actionOnStepFail": "continue", 
     "blueprintName": "", 
     "blueprintUuid": "932fd214-08b7-4cce-9fd0-d12d396337f3", 
-    "cloneUrl": "https://github.com/Attune-Automation/Kickstart-RHEL-Red-Hat-Enterprise-Linux.git", 
+    "cloneUrl": "https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation.git", 
     "enabled": true, 
     "externalUuid4": "c8dbbed0-4916-4ef2-9af3-a9c6aaaa3be8", 
     "key": "testrhel8uefinode", 
