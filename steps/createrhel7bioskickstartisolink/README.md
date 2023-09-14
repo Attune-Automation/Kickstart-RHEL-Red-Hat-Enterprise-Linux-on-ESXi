@@ -1,1 +1,1 @@
-Creates a RHEL7 BIOS kickstart ISO.
+Creates a RHEL7 BIOS kickstart ISO. 
