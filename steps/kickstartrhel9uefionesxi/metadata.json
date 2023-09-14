@@ -12,11 +12,15 @@
         }, 
         {
             "order": 50, 
-            "stepKey": "recreatevirtualmachinewithuefibootonesxirhel9link"
+            "stepKey": "buildrhel9virtualmachinewithuefibootonesxilink"
         }, 
         {
             "order": 100, 
             "stepKey": "cleanbuildfileslink"
+        }, 
+        {
+            "order": 150, 
+            "stepKey": "sshwait"
         }, 
         {
             "order": 200, 

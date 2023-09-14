@@ -297,6 +297,12 @@ for maintaining a current and efficient IT environment.
 
 | Name | Type | Script Reference | Comment |
 | ---- | ---- | ---------------- | ------- |
+| Automation Worker Base Directory | Text | `automationworkerbasedirectory` |  |
+| Automation Worker Linux Node | Linux/Unix Node | `automationworkerlinuxnode` |  |
+| Automation Worker User | Linux/Unix Credential | `automationworkeruser` |  |
+| Automation Worker User: root | Linux/Unix Credential | `automationworkeruserroot` |  |
+| New VM Node | Linux/Unix Node | `newvmnode` |  |
+| New VM User: root | Linux/Unix Credential | `newvmuserroot` |  |
 
 
 

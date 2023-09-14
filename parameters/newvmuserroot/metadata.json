@@ -1,0 +1,7 @@
+{
+    "externalUuid4": "0e0c8c0d-7f8f-4114-a9be-f624256db753", 
+    "key": "newvmuserroot", 
+    "name": "New VM User: root", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.LinOsCred"
+}

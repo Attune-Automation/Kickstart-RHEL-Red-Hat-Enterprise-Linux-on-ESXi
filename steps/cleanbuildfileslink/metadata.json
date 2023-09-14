@@ -2,12 +2,49 @@
     "actionOnStepFail": null, 
     "blueprintName": "", 
     "blueprintUuid": "eb8023cf-b54e-4035-9218-30902b7b8daf", 
-    "cloneUrl": "https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation.git", 
+    "cloneUrl": "https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation-with-Kickstart.git", 
     "enabled": true, 
     "externalUuid4": "23cb377e-0942-4ec3-8dc5-0552df257770", 
     "key": "cleanbuildfileslink", 
     "name": "Clean Build Files (link)", 
-    "parameterMap": [], 
+    "parameterMap": [
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.LinuxServer", 
+            "childParameterUuid": "fbf883e7-bfa6-4530-8ddc-7816ea16c07b", 
+            "childProjectName": null, 
+            "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+            "parentParameterKey": "newvmnode", 
+            "parentStaticTextValue": null
+        }, 
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.LinuxServer", 
+            "childParameterUuid": "9f739eb7-187d-45d6-91d2-c69a0035eafe", 
+            "childProjectName": null, 
+            "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+            "parentParameterKey": "automationworkerlinuxnode", 
+            "parentStaticTextValue": null
+        }, 
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.LinOsCred", 
+            "childParameterUuid": "84f9c06d-b1c5-4d6b-9a4f-cf60541e8d8b", 
+            "childProjectName": null, 
+            "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+            "parentParameterKey": "automationworkeruser", 
+            "parentStaticTextValue": null
+        }, 
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.Text", 
+            "childParameterUuid": "83b2d367-279b-4127-9cd2-635a6a32c32a", 
+            "childProjectName": null, 
+            "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+            "parentParameterKey": "automationworkerbasedirectory", 
+            "parentStaticTextValue": null
+        }
+    ], 
     "projectName": "", 
     "projectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
     "projectVersion": "", 

@@ -12,7 +12,7 @@
         }, 
         {
             "order": 50, 
-            "stepKey": "recreatevirtualmachinewithuefibootonesxirhel8link"
+            "stepKey": "buildrhel8virtualmachinewithuefibootonesxilink"
         }, 
         {
             "order": 100, 
@@ -20,6 +20,10 @@
         }, 
         {
             "order": 150, 
+            "stepKey": "sshwait"
+        }, 
+        {
+            "order": 200, 
             "stepKey": "testrhel8uefinode"
         }
     ], 

@@ -34,6 +34,24 @@
             "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
             "parentParameterKey": null, 
             "parentStaticTextValue": "Red Hat Enterprise Linux 8"
+        }, 
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.LinuxServer", 
+            "childParameterUuid": "fbf883e7-bfa6-4530-8ddc-7816ea16c07b", 
+            "childProjectName": null, 
+            "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+            "parentParameterKey": "newvmnode", 
+            "parentStaticTextValue": null
+        }, 
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.LinOsCred", 
+            "childParameterUuid": "0c6839f8-2fca-477f-b7e5-c5e7f495b1ad", 
+            "childProjectName": null, 
+            "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+            "parentParameterKey": "newvmuserroot", 
+            "parentStaticTextValue": null
         }
     ], 
     "projectName": "", 

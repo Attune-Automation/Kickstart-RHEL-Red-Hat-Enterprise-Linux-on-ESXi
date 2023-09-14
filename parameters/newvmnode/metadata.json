@@ -1,0 +1,7 @@
+{
+    "externalUuid4": "a5da06de-cd06-449c-be17-251ad91f8183", 
+    "key": "newvmnode", 
+    "name": "New VM Node", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.LinuxServer"
+}

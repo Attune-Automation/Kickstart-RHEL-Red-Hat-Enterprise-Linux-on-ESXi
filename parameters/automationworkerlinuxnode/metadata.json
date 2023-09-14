@@ -1,0 +1,7 @@
+{
+    "externalUuid4": "532c3030-bd32-4837-8be6-e7919a65bb4a", 
+    "key": "automationworkerlinuxnode", 
+    "name": "Automation Worker Linux Node", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.LinuxServer"
+}

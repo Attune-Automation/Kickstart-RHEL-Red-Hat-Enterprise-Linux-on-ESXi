@@ -1,1 +1,0 @@
-Recreates a RHEL8 ESXi BIOS virtual machine.

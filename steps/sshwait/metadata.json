@@ -1,0 +1,13 @@
+{
+    "actionOnStepFail": null, 
+    "enabled": true, 
+    "externalUuid4": "cdf8173c-c262-41de-b024-f0d405273354", 
+    "key": "sshwait", 
+    "minDowntime": 0, 
+    "name": "ssh Wait", 
+    "postWait": 5, 
+    "preWait": 0, 
+    "serverKey": "newvmnode", 
+    "tcpPort": 22, 
+    "type": "com.servertribe.attune.tuples.StepTcpPingTuple"
+}
