@@ -7,7 +7,7 @@
 [![Docs](https://img.shields.io/badge/videos-watch-brightgreen.svg)](https://www.youtube.com/@servertribe)
 [![Generic badge](https://img.shields.io/badge/download-latest-brightgreen.svg)](https://www.servertribe.com/community-edition/)
 
-# Kickstart RHEL Redhat Enterprise Linux on ESXi
+# Automate Red Hat Enterprise Linux RHEL Installation with Kickstart on ESXi
 
 Automating the installation of Redhat Enterprise Linux (RHEL) on 
 virtual machines (VMs) can save time, reduce human error, and ensure 
