@@ -33,7 +33,7 @@
             "childProjectName": null, 
             "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
             "parentParameterKey": null, 
-            "parentStaticTextValue": "Red Hat Enterprise Linux 7"
+            "parentStaticTextValue": "Red Hat Enterprise Linux Server 7"
         }, 
         {
             "childParameterName": null, 
