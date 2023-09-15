@@ -98,7 +98,14 @@ aspect of modern IT infrastructure management.
 The Kickstart method is a powerful tool that allows system 
 administrators to streamline the installation of Red Hat 
 Enterprise Linux (RHEL) on virtual machines (VMs) running on 
-VMware ESXi. 
+VMware ESXi.
+
+[Clone this Project from GitHub](https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation-with-Kickstart-on-ESXi)
+
+**Linked Attune Projects:**
+
+* [Automate Red Hat Enterprise Linux RHEL Installation with Kickstart](https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation-with-Kickstart)
+* [VMWare ESXi APIs](https://github.com/Attune-Automation/VMWare-ESXi-APIs)
 
 #### Understanding Kickstart Automation
 
@@ -133,6 +140,13 @@ The Kickstart method is a powerful tool that allows system
 administrators to streamline the installation of Red Hat 
 Enterprise Linux (RHEL) on virtual machines (VMs) running on 
 VMware ESXi. 
+
+[Clone this Project from GitHub](https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation-with-Kickstart-on-ESXi)
+
+**Linked Attune Projects:**
+
+* [Automate Red Hat Enterprise Linux RHEL Installation with Kickstart](https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation-with-Kickstart)
+* [VMWare ESXi APIs](https://github.com/Attune-Automation/VMWare-ESXi-APIs)
 
 #### Understanding Kickstart Automation
 
@@ -170,6 +184,13 @@ administrators to streamline the installation of Red Hat
 Enterprise Linux (RHEL) on virtual machines (VMs) running on 
 VMware ESXi. 
 
+[Clone this Project from GitHub](https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation-with-Kickstart-on-ESXi)
+
+**Linked Attune Projects:**
+
+* [Automate Red Hat Enterprise Linux RHEL Installation with Kickstart](https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation-with-Kickstart)
+* [VMWare ESXi APIs](https://github.com/Attune-Automation/VMWare-ESXi-APIs)
+
 #### Understanding Kickstart Automation
 
 Kickstart simplifies the installation of RHEL by using a 
@@ -203,6 +224,13 @@ The Kickstart method is a powerful tool that allows system
 administrators to streamline the installation of Red Hat 
 Enterprise Linux (RHEL) on virtual machines (VMs) running on 
 VMware ESXi. 
+
+[Clone this Project from GitHub](https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation-with-Kickstart-on-ESXi)
+
+**Linked Attune Projects:**
+
+* [Automate Red Hat Enterprise Linux RHEL Installation with Kickstart](https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation-with-Kickstart)
+* [VMWare ESXi APIs](https://github.com/Attune-Automation/VMWare-ESXi-APIs)
 
 #### Understanding Kickstart Automation
 
@@ -240,6 +268,13 @@ administrators to streamline the installation of Red Hat
 Enterprise Linux (RHEL) on virtual machines (VMs) running on 
 VMware ESXi. 
 
+[Clone this Project from GitHub](https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation-with-Kickstart-on-ESXi)
+
+**Linked Attune Projects:**
+
+* [Automate Red Hat Enterprise Linux RHEL Installation with Kickstart](https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation-with-Kickstart)
+* [VMWare ESXi APIs](https://github.com/Attune-Automation/VMWare-ESXi-APIs)
+
 #### Understanding Kickstart Automation
 
 Kickstart simplifies the installation of RHEL by using a 
@@ -273,6 +308,13 @@ The Kickstart method is a powerful tool that allows system
 administrators to streamline the installation of Red Hat 
 Enterprise Linux (RHEL) on virtual machines (VMs) running on 
 VMware ESXi. 
+
+[Clone this Project from GitHub](https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation-with-Kickstart-on-ESXi)
+
+**Linked Attune Projects:**
+
+* [Automate Red Hat Enterprise Linux RHEL Installation with Kickstart](https://github.com/Attune-Automation/Automate-Red-Hat-Enterprise-Linux-RHEL-Installation-with-Kickstart)
+* [VMWare ESXi APIs](https://github.com/Attune-Automation/VMWare-ESXi-APIs)
 
 #### Understanding Kickstart Automation
 
